@@ -1,0 +1,7 @@
+.homepage img {
+    height: 300px;
+}
+
+.homepage .blurb {
+    display: flex;
+}

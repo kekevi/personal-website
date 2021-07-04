@@ -1,0 +1,22 @@
+html, body, #root {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+  background-color: #FBFEF9;
+  display: flex;
+}
+
+main {
+  margin: 80px;
+  text-align: left;
+}
+
+main h1 {
+  font-family: monospace;
+  margin-bottom: 30px;
+  font-size: 60px;
+}
+

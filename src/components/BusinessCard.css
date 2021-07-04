@@ -1,0 +1,29 @@
+.business-card {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.business-card .description {
+    margin-left: 20px;
+}
+
+.business-card .spacer {
+    width: 50px;
+}
+
+.business-card h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+.business-card p {
+    margin: 0;
+}
+
+.business-card img {
+    height: 150px;
+    border-radius: 75px;
+}
