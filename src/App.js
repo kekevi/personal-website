@@ -29,7 +29,7 @@ function App() {
       default: {
         return (
           <ErrorPage>
-            <h2 style={{color: 'green'}}>404</h2>
+            <h2 style={{color: 'red', fontSize: "60px", margin: 0}}>404</h2>
             <p>This page does not exist. Use the links on the side to go to a page that does.</p>
           </ErrorPage>
         );
